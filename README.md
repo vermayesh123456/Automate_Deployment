@@ -36,16 +36,23 @@ To get started with the Automate Deployment script, follow these steps:
    to the directory where you cloned the repository.
    `cd Automate_Deploymentgit`
 
+![Locate File](https://github.com/vermayesh123456/Automate_Deploymentgit/blob/samples/1.png)
+
+
+
+**Note:**  Change the web projects directory name with your own directory name
+
+![Replace Application Filename](https://github.com/vermayesh123456/Automate_Deploymentgit/blob/samples/3.png)
+
 
 4. Run the Script: Execute the script using the appropriate command. Make sure to follow any on-screen instructions and provide any required information or credentials.
 
-
+![After Running you may see required task getting executed](https://github.com/vermayesh123456/Automate_Deploymentgit/blob/samples/4.png)
 
 5. Customize as Needed: Feel free to explore the script and make any modifications or customizations to fit your deployment requirements.
 
 
 
-**Note:**  Change the web projects directory name with your own directory name 
 
 
 
